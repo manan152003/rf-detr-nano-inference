@@ -1,3 +1,4 @@
 .env
 output_small/  
 output_nano/
+.ipynb_checkpoints/
